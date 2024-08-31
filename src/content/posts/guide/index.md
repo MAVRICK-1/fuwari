@@ -1,51 +1,56 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
+title: NextGen Hub
+published: 2024-08-30
+description: "Next GenHub is where future tech leaders come to 'Lean and Lead.'' We focus on hands-on learning, open-source collaboration, and leading with innovation."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Blogging", "Customization"]
 category: Guides
 draft: false
 ---
 
 > Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
 
-This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
+# About Us
 
-## Front-matter of Posts
+## Welcome to Next GenHub!
 
-```yaml
+Next GenHub is the thriving tech community of **Techno College Hooghly**, where innovation, collaboration, and leadership come together. Our mission is to empower students and tech enthusiasts by creating a platform for learning, growing, and making impactful contributions to the open-source world.
+
+### Our Vision
+
+We envision a future where every student at Techno College Hooghly not only learns the latest in technology but also leads the charge in creating it. At Next GenHub, we believe in the power of **"Lean and Lead"**—a philosophy that emphasizes learning by doing and leading by example. Our community is dedicated to fostering an environment where curiosity meets creativity, and where every idea has the potential to spark the next big innovation.
+
+### What We Do
+
+- **Workshops & Seminars**: We host regular workshops and seminars on the latest tech trends, tools, and languages. These sessions are designed to equip our members with the practical skills needed to excel in today’s tech landscape.
+
+- **Hackathons & Coding Challenges**: We organize hackathons and coding challenges that push the boundaries of what’s possible. These events are a great way for members to test their skills, work collaboratively, and develop solutions to real-world problems.
+
+- **Open Source Contributions**: We actively encourage and support contributions to open-source projects. Whether you're a beginner or an experienced developer, Next GenHub provides the resources and guidance you need to make your mark in the open-source community.
+
+- **Mentorship & Collaboration**: Our community is built on the principles of mentorship and collaboration. Experienced members and industry professionals are always ready to guide you, help you navigate challenges, and share insights that accelerate your growth.
+
+### Why Join Us?
+
+At Next GenHub, we offer more than just a learning experience. We offer a chance to be part of something bigger—a movement that’s shaping the future of technology. By joining our community, you’ll:
+
+- **Learn from the Best**: Gain knowledge from experienced peers and industry experts through our diverse learning sessions.
+- **Build a Strong Network**: Connect with like-minded individuals who share your passion for technology and innovation.
+- **Lead and Inspire**: Take the lead on projects, share your ideas, and inspire others to push the boundaries of what’s possible.
+- **Contribute to Open Source**: Make meaningful contributions to open-source projects that impact the global tech community.
+
+### Get Involved
+
+We’re always looking for passionate, driven individuals to join us. Whether you’re a seasoned developer or just starting your tech journey, Next GenHub has a place for you. Here’s how you can get involved:
+
+- **Follow us on GitHub**: Stay up-to-date with our latest projects and collaborations.
+- **Join our Discord**: Be part of the conversation, share your ideas, and get real-time support from our community.
+- **Attend Our Events**: Participate in our workshops, hackathons, and meetups to enhance your skills and network.
+
+### Our Tagline: **"Lean and Lead"**
+
+At Next GenHub, our tagline, **"Lean and Lead,"** perfectly encapsulates our approach. We believe in learning by doing, leading by example, and driving innovation through collective effort. Together, we’re not just learning technology—we’re building the future.
+
 ---
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
 
-| Attribute     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`       | The title of the post.                                                                                                                                                                                      |
-| `published`   | The date the post was published.                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
-
-## Where to Place the Post Files
-
-
-
-Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
-
-```
-src/content/posts/
-├── post-1.md
-└── post-2/
-    ├── cover.png
-    └── index.md
-```
+**Let’s create something amazing together. Join Next GenHub today!**
